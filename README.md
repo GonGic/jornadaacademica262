@@ -1,5 +1,6 @@
 # Jornada Académica - Importación de Aguacates
 
+
 ## 📋 Descripción
 
 Proyecto correspondiente a la Jornada Académica sobre la **Importación de Aguacates**.
